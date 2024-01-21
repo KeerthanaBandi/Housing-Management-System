@@ -1,0 +1,31 @@
+.logout_button
+{
+  padding: 5px 10px;
+  position: absolute;
+  top: 10px;
+  right: 70px;
+      
+}
+
+.update{
+  background-color: green;
+  border-color: green;
+}
+
+.update:active,
+.update:hover,
+.update:focus{
+  background-color: green;
+  border-color: green;
+}
+
+:not(.btn-check)+.btn:active {
+  background-color: green;
+  border-color: green;
+}
+
+.background {
+  background: url("bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

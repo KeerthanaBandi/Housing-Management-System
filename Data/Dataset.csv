@@ -1,0 +1,201 @@
+Unique ID,Name of Property,Type of House,No of Bedrooms,No of Bathrooms,Square Feet,Rent,Images,Amenities,Additional Details,Address,Balcony Or Patio,Availability Status
+1,Fountain Park,Cozy Loft,1,1,600,600,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+2,Fountain Park,Cozy Loft,1,1,600,600,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+3,Fountain Park,Cozy Loft,1,1,600,600,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+4,Fountain Park,Cozy Loft,1,1,600,600,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+5,Fountain Park,Willow,1,1.5,700,800,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+6,Fountain Park,Willow,1,1.5,700,800,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+7,Fountain Park,Willow,1,1.5,700,800,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+8,Fountain Park,Willow,1,1.5,700,800,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+9,Fountain Park,Maple Leaf,2,1,800,1000,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+10,Fountain Park,Maple Leaf,2,1,800,1000,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+11,Fountain Park,Maple Leaf,2,1,800,1000,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+12,Fountain Park,Maple Leaf,2,1,800,1000,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+13,Fountain Park,Cedar Creek,2,1.5,900,1200,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+14,Fountain Park,Cedar Creek,2,1.5,900,1200,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+15,Fountain Park,Cedar Creek,2,1.5,900,1200,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+16,Fountain Park,Cedar Creek,2,1.5,900,1200,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+17,Fountain Park,Primrose,2,2,1000,1400,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+18,Fountain Park,Primrose,2,2,1000,1400,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+19,Fountain Park,Primrose,2,2,1000,1400,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+20,Fountain Park,Primrose,2,2,1000,1400,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+21,Fountain Park,Riverfront Cottage,3,1,1100,1600,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+22,Fountain Park,Riverfront Cottage,3,1,1100,1600,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+23,Fountain Park,Riverfront Cottage,3,1,1100,1600,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+24,Fountain Park,Riverfront Cottage,3,1,1100,1600,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+25,Fountain Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+26,Fountain Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+27,Fountain Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+28,Fountain Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+29,Fountain Park,Ivy Terrace,3,2,1300,2000,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+30,Fountain Park,Ivy Terrace,3,2,1300,2000,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+31,Fountain Park,Ivy Terrace,3,2,1300,2000,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+32,Fountain Park,Ivy Terrace,3,2,1300,2000,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+33,Fountain Park,Tranquil Terrace,3,3,1400,2200,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+34,Fountain Park,Tranquil Terrace,3,3,1400,2200,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+35,Fountain Park,Tranquil Terrace,3,3,1400,2200,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+36,Fountain Park,Tranquil Terrace,3,3,1400,2200,test url,"Swimming Pool, Tennis Court","Pet friendly, Electric coils","3209 E 10th St, Bloomington,",Balcony,Yes
+37,Fountain Park,Forest Glen Manor,4,4,1500,2400,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+38,Fountain Park,Forest Glen Manor,4,4,1500,2400,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+39,Fountain Park,Forest Glen Manor,4,4,1500,2400,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+40,Fountain Park,Forest Glen Manor,4,4,1500,2400,test url,"Swimming Pool, Tennis Court","Furnished, Gas","3209 E 10th St, Bloomington,",Patio,No
+41,Crescent Park,Cozy Loft,1,1,600,600,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+42,Crescent Park,Cozy Loft,1,1,600,600,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+43,Crescent Park,Cozy Loft,1,1,600,600,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+44,Crescent Park,Cozy Loft,1,1,600,600,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+45,Crescent Park,Willow,1,1.5,700,800,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+46,Crescent Park,Willow,1,1.5,700,800,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+47,Crescent Park,Willow,1,1.5,700,800,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+48,Crescent Park,Willow,1,1.5,700,800,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+49,Crescent Park,Maple Leaf,2,1,800,1000,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+50,Crescent Park,Maple Leaf,2,1,800,1000,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+51,Crescent Park,Maple Leaf,2,1,800,1000,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+52,Crescent Park,Maple Leaf,2,1,800,1000,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+53,Crescent Park,Cedar Creek,2,1.5,900,1200,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+54,Crescent Park,Cedar Creek,2,1.5,900,1200,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+55,Crescent Park,Cedar Creek,2,1.5,900,1200,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+56,Crescent Park,Cedar Creek,2,1.5,900,1200,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+57,Crescent Park,Primrose,2,2,1000,1400,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+58,Crescent Park,Primrose,2,2,1000,1400,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+59,Crescent Park,Primrose,2,2,1000,1400,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+60,Crescent Park,Primrose,2,2,1000,1400,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+61,Crescent Park,Riverfront Cottage,3,1,1100,1600,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+62,Crescent Park,Riverfront Cottage,3,1,1100,1600,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+63,Crescent Park,Riverfront Cottage,3,1,1100,1600,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+64,Crescent Park,Riverfront Cottage,3,1,1100,1600,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+65,Crescent Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+66,Crescent Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+67,Crescent Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+68,Crescent Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+69,Crescent Park,Ivy Terrace,3,2,1300,2000,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+70,Crescent Park,Ivy Terrace,3,2,1300,2000,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+71,Crescent Park,Ivy Terrace,3,2,1300,2000,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+72,Crescent Park,Ivy Terrace,3,2,1300,2000,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+73,Crescent Park,Tranquil Terrace,3,3,1400,2200,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+74,Crescent Park,Tranquil Terrace,3,3,1400,2200,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+75,Crescent Park,Tranquil Terrace,3,3,1400,2200,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+76,Crescent Park,Tranquil Terrace,3,3,1400,2200,test url,"Swimming Pool, Basketball Court","Pet friendly, Electric coils","3193-3261 John Hinkle Pl, Bloomington",Balcony,Yes
+77,Crescent Park,Forest Glen Manor,4,4,1500,2400,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+78,Crescent Park,Forest Glen Manor,4,4,1500,2400,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+79,Crescent Park,Forest Glen Manor,4,4,1500,2400,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+80,Crescent Park,Forest Glen Manor,4,4,1500,2400,test url,"Swimming Pool, Basketball Court","Furnished, Gas","3193-3261 John Hinkle Pl, Bloomington",Patio,No
+81,Meadow Park,Cozy Loft,1,1,600,600,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+82,Meadow Park,Cozy Loft,1,1,600,600,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+83,Meadow Park,Cozy Loft,1,1,600,600,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+84,Meadow Park,Cozy Loft,1,1,600,600,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+85,Meadow Park,Willow,1,1.5,700,800,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+86,Meadow Park,Willow,1,1.5,700,800,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+87,Meadow Park,Willow,1,1.5,700,800,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+88,Meadow Park,Willow,1,1.5,700,800,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+89,Meadow Park,Maple Leaf,2,1,800,1000,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+90,Meadow Park,Maple Leaf,2,1,800,1000,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+91,Meadow Park,Maple Leaf,2,1,800,1000,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+92,Meadow Park,Maple Leaf,2,1,800,1000,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+93,Meadow Park,Cedar Creek,2,1.5,900,1200,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+94,Meadow Park,Cedar Creek,2,1.5,900,1200,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+95,Meadow Park,Cedar Creek,2,1.5,900,1200,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+96,Meadow Park,Cedar Creek,2,1.5,900,1200,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+97,Meadow Park,Primrose,2,2,1000,1400,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+98,Meadow Park,Primrose,2,2,1000,1400,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+99,Meadow Park,Primrose,2,2,1000,1400,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+100,Meadow Park,Primrose,2,2,1000,1400,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+101,Meadow Park,Riverfront Cottage,3,1,1100,1600,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+102,Meadow Park,Riverfront Cottage,3,1,1100,1600,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+103,Meadow Park,Riverfront Cottage,3,1,1100,1600,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+104,Meadow Park,Riverfront Cottage,3,1,1100,1600,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+105,Meadow Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+106,Meadow Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+107,Meadow Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+108,Meadow Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+109,Meadow Park,Ivy Terrace,3,2,1300,2000,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+110,Meadow Park,Ivy Terrace,3,2,1300,2000,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+111,Meadow Park,Ivy Terrace,3,2,1300,2000,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+112,Meadow Park,Ivy Terrace,3,2,1300,2000,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+113,Meadow Park,Tranquil Terrace,3,3,1400,2200,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+114,Meadow Park,Tranquil Terrace,3,3,1400,2200,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+115,Meadow Park,Tranquil Terrace,3,3,1400,2200,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+116,Meadow Park,Tranquil Terrace,3,3,1400,2200,test url,"Gym, Basketball Court","Pet friendly, Electric coils","800 N Smith Road, Bloomington",Balcony,Yes
+117,Meadow Park,Forest Glen Manor,4,4,1500,2400,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+118,Meadow Park,Forest Glen Manor,4,4,1500,2400,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+119,Meadow Park,Forest Glen Manor,4,4,1500,2400,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+120,Meadow Park,Forest Glen Manor,4,4,1500,2400,test url,"Gym, Basketball Court","Furnished, Gas","800 N Smith Road, Bloomington",Patio,No
+121,Orchard  Park,Cozy Loft,1,1,600,600,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+122,Orchard  Park,Cozy Loft,1,1,600,600,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+123,Orchard  Park,Cozy Loft,1,1,600,600,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+124,Orchard  Park,Cozy Loft,1,1,600,600,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+125,Orchard  Park,Willow,1,1.5,700,800,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+126,Orchard  Park,Willow,1,1.5,700,800,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+127,Orchard  Park,Willow,1,1.5,700,800,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+128,Orchard  Park,Willow,1,1.5,700,800,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+129,Orchard  Park,Maple Leaf,2,1,800,1000,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+130,Orchard  Park,Maple Leaf,2,1,800,1000,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+131,Orchard  Park,Maple Leaf,2,1,800,1000,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+132,Orchard  Park,Maple Leaf,2,1,800,1000,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+133,Orchard  Park,Cedar Creek,2,1.5,900,1200,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+134,Orchard  Park,Cedar Creek,2,1.5,900,1200,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+135,Orchard  Park,Cedar Creek,2,1.5,900,1200,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+136,Orchard  Park,Cedar Creek,2,1.5,900,1200,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+137,Orchard  Park,Primrose,2,2,1000,1400,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+138,Orchard  Park,Primrose,2,2,1000,1400,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+139,Orchard  Park,Primrose,2,2,1000,1400,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+140,Orchard  Park,Primrose,2,2,1000,1400,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+141,Orchard  Park,Riverfront Cottage,3,1,1100,1600,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+142,Orchard  Park,Riverfront Cottage,3,1,1100,1600,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+143,Orchard  Park,Riverfront Cottage,3,1,1100,1600,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+144,Orchard  Park,Riverfront Cottage,3,1,1100,1600,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+145,Orchard  Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+146,Orchard  Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+147,Orchard  Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+148,Orchard  Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+149,Orchard  Park,Ivy Terrace,3,2,1300,2000,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+150,Orchard  Park,Ivy Terrace,3,2,1300,2000,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+151,Orchard  Park,Ivy Terrace,3,2,1300,2000,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+152,Orchard  Park,Ivy Terrace,3,2,1300,2000,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+153,Orchard  Park,Tranquil Terrace,3,3,1400,2200,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+154,Orchard  Park,Tranquil Terrace,3,3,1400,2200,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+155,Orchard  Park,Tranquil Terrace,3,3,1400,2200,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+156,Orchard  Park,Tranquil Terrace,3,3,1400,2200,test url,"Gym, Tennis Court","Pet friendly, Electric coils","720 S College Mall Rd, Bloomington",Balcony,Yes
+157,Orchard  Park,Forest Glen Manor,4,4,1500,2400,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+158,Orchard  Park,Forest Glen Manor,4,4,1500,2400,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+159,Orchard  Park,Forest Glen Manor,4,4,1500,2400,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+160,Orchard  Park,Forest Glen Manor,4,4,1500,2400,test url,"Gym, Tennis Court","Furnished, Gas","720 S College Mall Rd, Bloomington",Patio,No
+161,Briarwood Park,Cozy Loft,1,1,600,600,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+162,Briarwood Park,Cozy Loft,1,1,600,600,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+163,Briarwood Park,Cozy Loft,1,1,600,600,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+164,Briarwood Park,Cozy Loft,1,1,600,600,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+165,Briarwood Park,Willow,1,1.5,700,800,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+166,Briarwood Park,Willow,1,1.5,700,800,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+167,Briarwood Park,Willow,1,1.5,700,800,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+168,Briarwood Park,Willow,1,1.5,700,800,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+169,Briarwood Park,Maple Leaf,2,1,800,1000,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+170,Briarwood Park,Maple Leaf,2,1,800,1000,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+171,Briarwood Park,Maple Leaf,2,1,800,1000,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+172,Briarwood Park,Maple Leaf,2,1,800,1000,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+173,Briarwood Park,Cedar Creek,2,1.5,900,1200,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+174,Briarwood Park,Cedar Creek,2,1.5,900,1200,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+175,Briarwood Park,Cedar Creek,2,1.5,900,1200,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+176,Briarwood Park,Cedar Creek,2,1.5,900,1200,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+177,Briarwood Park,Primrose,2,2,1000,1400,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+178,Briarwood Park,Primrose,2,2,1000,1400,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+179,Briarwood Park,Primrose,2,2,1000,1400,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+180,Briarwood Park,Primrose,2,2,1000,1400,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+181,Briarwood Park,Riverfront Cottage,3,1,1100,1600,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+182,Briarwood Park,Riverfront Cottage,3,1,1100,1600,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+183,Briarwood Park,Riverfront Cottage,3,1,1100,1600,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+184,Briarwood Park,Riverfront Cottage,3,1,1100,1600,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+185,Briarwood Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+186,Briarwood Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+187,Briarwood Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+188,Briarwood Park,Greenfield Cottage,3,1.5,1200,1800,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+189,Briarwood Park,Ivy Terrace,3,2,1300,2000,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+190,Briarwood Park,Ivy Terrace,3,2,1300,2000,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+191,Briarwood Park,Ivy Terrace,3,2,1300,2000,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+192,Briarwood Park,Ivy Terrace,3,2,1300,2000,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+193,Briarwood Park,Tranquil Terrace,3,3,1400,2200,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+194,Briarwood Park,Tranquil Terrace,3,3,1400,2200,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+195,Briarwood Park,Tranquil Terrace,3,3,1400,2200,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+196,Briarwood Park,Tranquil Terrace,3,3,1400,2200,test url,"Basketball Court, Tennis Court","Pet friendly, Electric coils","2623 E 2nd St, Bloomington",Balcony,Yes
+197,Briarwood Park,Forest Glen Manor,4,4,1500,2400,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+198,Briarwood Park,Forest Glen Manor,4,4,1500,2400,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+199,Briarwood Park,Forest Glen Manor,4,4,1500,2400,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
+200,Briarwood Park,Forest Glen Manor,4,4,1500,2400,test url,"Basketball Court, Tennis Court","Furnished, Gas","2623 E 2nd St, Bloomington",Patio,No
